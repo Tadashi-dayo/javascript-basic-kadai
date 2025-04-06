@@ -1,5 +1,5 @@
 const exponentiation = (num) =>{
-  console.log(num **2);
+  return num **2 ;
 }
 
-exponentiation(10);
+console.log (exponentiation(10));
